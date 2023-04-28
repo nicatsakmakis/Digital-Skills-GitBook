@@ -63,7 +63,7 @@ Contributions have been requested in the following areas:
 | Installing and accessing browsers | In Progress |
 | Using spreadsheet applications | Complete |
 | Using e-mail applications | All proficiency levels |
-| Creating presentations | All proficiency levels |
+| Creating presentations | in Progress Nica|
 | Using word processor applications | All proficiency levels |
 | Naming and organising files and folders | In progress |
 | Networks: the internet and how it works | Complete |
